@@ -32,6 +32,6 @@ public class JDK8SteamTest {
         // 3、转换为String
         stream.collect(Collectors.joining()).toString();*/
 
-//        System.out.print(oldData);
+        System.out.print(result);
     }
 }
